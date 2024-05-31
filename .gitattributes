@@ -1,0 +1,2 @@
+VRPrototyp/Binaries/Win64/VRPrototyp-Win64-Shipping.exe filter=lfs diff=lfs merge=lfs -text
+VRPrototyp/Content/Paks/VRPrototyp-Windows.ucas filter=lfs diff=lfs merge=lfs -text
